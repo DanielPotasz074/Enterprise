@@ -20,7 +20,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://https://github.com/Hollie-OurHouse/SCP-5K-2025.git
+   git clone https://github.com/Hollie-OurHouse/SCP-5K-2025.git
    cd SCP-5K-2025
    ```
 
